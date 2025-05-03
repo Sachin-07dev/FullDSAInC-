@@ -5,10 +5,15 @@ Welcome to my Data Structures and Algorithms (DSA) repository! This project is a
 The repository is divided into multiple directories, each focusing on a specific concept:
 
 Array – Common array problems and their C++ implementations.
+
 String – Manipulation and pattern-matching problems.
+
 Recursion – Recursive solutions to problems like palindrome check, factorial, merge sort, etc.
+
 Linked List – Operations on singly and doubly linked lists.
+
 Stack / Queue / Pointer / OOP’s – Core programming concepts and implementations.
+
 Tree – Binary Tree and Binary Search Tree creation, traversals, and modifications.
 Graph – Algorithms like DFS, BFS, Topological Sort, Cycle Detection, and real-world graph problems.
 Sorting – Merge sort and other classic algorithms.
